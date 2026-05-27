@@ -65,14 +65,6 @@ CNN · Clustering · Transformers · RNN · OOP · Constraint programming
 - Telegram: [@Buendia_001](https://t.me/Buendia_001)
 - Email: [v.buendiah@icloud.com](mailto:v.buendiah@icloud.com)
 - Secondary email: [andyh351278@gmail.com](mailto:andyh351278@gmail.com)
-
-## GitHub stats
-
-> Replace the username if needed.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SCP-00&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SCP-00&layout=compact&hide_border=true)
-
 ---
 
 Minimal, technical, and focused on applied problem solving.
