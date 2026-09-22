@@ -20,7 +20,7 @@ class VictorBuendia:
         self.uni = "Universidad Tecnológica de Pereira (UTP), Colombia"
         self.focus = ["AI Language Systems", "Dev Tools", "Cybersecurity", "Mobile Development"]
         self.stack = {
-            "ai_ml":    ["Ollama", "Transformers", "Whisper STT", "Ollama Agents", "RTF Optimizations"],
+            "ai_ml":    ["llama.cpp", "GGUF", "Whisper STT", "Kokoro TTS", "Qwen3-TTS"],
             "languages": ["Python", "TypeScript", "Kotlin", "Java", "C++"],
             "web":      ["React", "Flask", "Express", "Vite", "Tailwind"],
             "infra":    ["Docker", "PostgreSQL", "SQLite", "Redis", "Linux"],
@@ -39,13 +39,13 @@ class VictorBuendia:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/SCP-00/alex-voice-ai">alex-voice-ai</a></h3>
-      <p><strong>AI Language Learning Assistant</strong> — Local, offline assistant for English, Spanish, and Japanese. Features real-time conversation, pronunciation scoring, semantic equivalence checking, and pre-recorded Qwen3-TTS audio with vector search.</p>
+      <h3>🤖 <a href="https://github.com/SCP-00/alex-teacher">alex-teacher</a></h3>
+      <p><strong>AI Language Tutor with Voice</strong> — Fully local tutor for English, Spanish, and Japanese: LLM chat (llama.cpp), text-to-speech, and illustrated stories generated with a full voice cast. One-command setup, zero cloud.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/llama.cpp-000"/>
+        <img src="https://img.shields.io/badge/Kokoro%20TTS-FF6F00"/>
+        <img src="https://img.shields.io/badge/Whisper-40E0D0"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -82,22 +82,22 @@ class VictorBuendia:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔥 <a href="https://github.com/SCP-00/prometheus">prometheus</a></h3>
-      <p><strong>Local AI Coding Agent</strong> — Autonomous coding agent powered by Ollama (Qwen 3.5 9B) running entirely offline on RTX 3050 6GB. Features MCP server integration, hardware auto-detection, and 96K context window.</p>
+      <h3>🌍 <a href="https://github.com/SCP-00/alex-translator">alex-translator</a></h3>
+      <p><strong>Real-time Speech Translator</strong> — Speech-to-speech pipeline (Whisper → MarianMT → TTS) covering 8 languages with English pivot routing. 100% local, 89 tok/s on consumer GPU.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MCP-000?logo=protocol&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MarianMT-FF6F00"/>
+        <img src="https://img.shields.io/badge/Whisper-40E0D0"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/SCP-00/hephaestus">hephaestus</a></h3>
-      <p><strong>Cybersecurity AI Agent</strong> — Autonomous security agent running on Kali Linux with DeepHat 7B. Designed for penetration testing workflows, vulnerability assessment, and security automation.</p>
+      <h3>📚 <a href="https://github.com/SCP-00/qwen3-tts-webui-audiobook">qwen3-tts-webui-audiobook</a></h3>
+      <p><strong>Full-length Audiobook Generator</strong> — Turns any text into complete audiobooks with Qwen3-TTS: hardware-aware chunked synthesis, per-voice casting, and seamless audio concatenation. FastAPI + React.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Qwen3--TTS-6D28D9"/>
       </p>
     </td>
   </tr>
@@ -146,9 +146,9 @@ class VictorBuendia:
 
 ## 🎯 Current Focus
 
-- **alex-voice-ai**: Building a complete offline AI language learning system with Qwen3-TTS, semantic search, and pronunciation scoring
+- **ALEX voice suite**: [alex-teacher](https://github.com/SCP-00/alex-teacher), [alex-conversation](https://github.com/SCP-00/alex-conversation), [alex-translator](https://github.com/SCP-00/alex-translator) — a fully local, real-time voice ecosystem (LLM + TTS + ASR) on consumer hardware
 - **farmacy-erp**: Production-ready pharmacy ERP with multi-payment gateway support
-- **Prometheus/Hephaestus**: Local AI agents for software development and cybersecurity
+- **qwen3-tts-webui-audiobook**: Complete audiobook generation with voice cloning
 
 ---
 
