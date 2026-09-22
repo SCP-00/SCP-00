@@ -11,29 +11,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```python
-class VictorBuendia:
-    def __init__(self):
-        self.role = "Systems & Computer Engineering Student"
-        self.uni = "Universidad Tecnológica de Pereira (UTP), Colombia"
-        self.focus = ["AI Language Systems", "Dev Tools", "Cybersecurity", "Mobile Development"]
-        self.stack = {
-            "ai_ml":    ["llama.cpp", "GGUF", "Whisper STT", "Kokoro TTS", "Qwen3-TTS"],
-            "languages": ["Python", "TypeScript", "Kotlin", "Java", "C++"],
-            "web":      ["React", "Flask", "Express", "Vite", "Tailwind"],
-            "infra":    ["Docker", "PostgreSQL", "SQLite", "Redis", "Linux"],
-            "mobile":   ["Android IME", "Jetpack Compose", "Kotlin Coroutines"],
-            "security": ["Kali Linux", "Pentesting", "RBAC", "OAuth2", "Rate Limiting"]
-        }
-    
-    def current_objective(self):
-        return "Building production-grade AI systems that run entirely offline on consumer hardware"
-```
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -120,6 +97,29 @@ class VictorBuendia:
     </td>
   </tr>
 </table>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+class VictorBuendia:
+    def __init__(self):
+        self.role = "Systems & Computer Engineering Student"
+        self.uni = "Universidad Tecnológica de Pereira (UTP), Colombia"
+        self.focus = ["AI Language Systems", "Dev Tools", "Cybersecurity", "Mobile Development"]
+        self.stack = {
+            "ai_ml":    ["llama.cpp", "GGUF", "Whisper STT", "Kokoro TTS", "Qwen3-TTS"],
+            "languages": ["Python", "TypeScript", "Kotlin", "Java", "C++"],
+            "web":      ["React", "Flask", "Express", "Vite", "Tailwind"],
+            "infra":    ["Docker", "PostgreSQL", "SQLite", "Redis", "Linux"],
+            "mobile":   ["Android IME", "Jetpack Compose", "Kotlin Coroutines"],
+            "security": ["Kali Linux", "Pentesting", "RBAC", "OAuth2", "Rate Limiting"]
+        }
+    
+    def current_objective(self):
+        return "Building production-grade AI systems that run entirely offline on consumer hardware"
+```
 
 ---
 
