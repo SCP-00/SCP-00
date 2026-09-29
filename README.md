@@ -100,6 +100,55 @@
 
 ---
 
+## 🎙️ Alex Voice — my local voice suite
+
+<p>
+  <a href="https://github.com/topics/alex-voice"><img src="https://img.shields.io/badge/topic-alex--voice-6D28D9"/></a>
+  <img src="https://img.shields.io/badge/TTS%20%2B%20STT-000"/>
+  <img src="https://img.shields.io/badge/100%25%20local-000"/>
+</p>
+
+A family of apps around **text-to-speech and speech-to-text** that never send a byte to the cloud. Start at the hub, then pick the one you need — they all install with one command and run on your own machine.
+
+**▶ [alex-menu](https://github.com/SCP-00/alex-menu)** — one panel that launches the whole family.
+
+| Project | What it does |
+| --- | --- |
+| 🗣️ [alex-teacher](https://github.com/SCP-00/alex-teacher) | AI language tutor with voice: LLM chat, TTS, illustrated stories with a full voice cast |
+| 💬 [alex-conversation](https://github.com/SCP-00/alex-conversation) | Real-time voice conversation, TTS + ASR, 100% local (llama.cpp) |
+| 🌍 [alex-translator](https://github.com/SCP-00/alex-translator) | Speech-to-speech translation across 8 languages (Whisper → MarianMT → TTS) |
+| 📝 [alex-grammar](https://github.com/SCP-00/alex-grammar) | Offline grammar and vocabulary drills, gamified profiles (XP, hearts, streaks) |
+| 🎙️ [qwen3-tts-webui](https://github.com/SCP-00/qwen3-tts-webui) | WebUI for Qwen3-TTS: voice generation and zero-shot voice cloning |
+| 📚 [qwen3-tts-webui-audiobook](https://github.com/SCP-00/qwen3-tts-webui-audiobook) | Full-length audiobooks: chunked synthesis, per-voice casting, seamless concat |
+| 🤖 [local-AI-voice_assistant](https://github.com/SCP-00/local-AI-voice_assistant) | Complete local voice assistant inside 11–15 GB of VRAM |
+
+All of them share one topic page: **[github.com/topics/alex-voice](https://github.com/topics/alex-voice)**.
+
+---
+
+## 🏋️ Fitness — BodyLab + TrainingLab
+
+<p>
+  <a href="https://github.com/SCP-00/Fitness"><img src="https://img.shields.io/badge/repo-Fitness-FF7A1A"/></a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tauri%202-24C8DB?logo=tauri&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+</p>
+
+One local-first ecosystem with two halves: **measure your body, then train what is weak**. No accounts, no servers, no telemetry — everything runs offline and the data stays on the device.
+
+| | |
+| --- | --- |
+| 🧠 **[BodyLab](https://github.com/SCP-00/Fitness/releases/latest/download/BodyLab-setup.exe)** | Anthropometry with explained protocols, mathematical body analysis, 2D/3D modeling, exercise education, progress |
+| 🏋️ **[TrainingLab](https://github.com/SCP-00/Fitness/releases/latest/download/TrainingLab-setup.exe)** | Today's session in your time budget, readiness, your real gear inventory, keyboard-first logging, PR detection |
+| 🌐 **[Live demo](https://scp-00.github.io/Fitness/)** | Both apps running in the browser — nothing to install |
+| 👨‍👩‍👧 **LAN mode** | An optional mini SQLite server shares the household history across the home network |
+
+BodyLab's weak-point analysis feeds TrainingLab's planner through a versioned export contract, so re-measuring reshapes the plan.
+
+---
+
 ## 👨‍💻 About Me
 
 ```python
