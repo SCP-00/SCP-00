@@ -26,7 +26,7 @@
 
 **Seventh-semester Systems & Computing Engineering student** at Universidad Tecnológica de Pereira (Colombia), with four semesters of Business Administration behind me. I don't present myself as a traditional developer: my edge is **product definition plus AI-assisted execution** — I write the spec, model the data, direct coding agents, then test and review what comes out.
 
-That combination is why my repos are full products instead of exercises: an ERP with payment gateways and 546 tests, a local-first fitness ecosystem, and a suite of eight on-device voice applications.
+That combination is why my repos are full products instead of exercises: an ERP with payment gateways and 693 tests, a local-first fitness ecosystem, and a suite of eight on-device voice applications.
 
 > **Versión en español:** estudiante de séptimo semestre de Ingeniería de Sistemas (UTP) con formación en Administración de Empresas. No me posiciono como programador tradicional: mi fuerte es **definir el producto y ejecutarlo con agentes de IA** — especificación, modelo de datos, dirección técnica y validación con pruebas. Busco roles remotos junior en producto, datos, QA o documentación técnica.
 
@@ -46,7 +46,7 @@ That combination is why my repos are full products instead of exercises: an ERP 
 ## 🚀 Selected work
 
 ### 🌿 [farmacy-erp](https://github.com/SCP-00/farmacy-erp) — Pharmacy POS + B2C store
-Offline-capable point of sale, storefront, **FEFO batch inventory**, loyalty points, RBAC and **four payment gateways** (Wompi, Stripe, MercadoPago, cash). I owned the product scope, the data model and the 546-test acceptance suite.
+Offline-capable point of sale, storefront, **FEFO batch inventory**, loyalty points, RBAC and **four payment gateways** (Wompi, Stripe, MercadoPago, cash). I owned the product scope, the data model and the 693-test acceptance suite.
 `TypeScript` `React` `Node` `PostgreSQL` `Prisma` `Redis` `Docker`
 
 ### 🏋️ [Fitness](https://github.com/SCP-00/Fitness) — BodyLab + TrainingLab
