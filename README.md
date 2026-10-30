@@ -92,9 +92,9 @@ A family of speech apps that never send a byte to the cloud: language tutor, eig
 
 ## 🎓 Education & languages
 
-- **B.S. Systems & Computing Engineering** — Universidad Tecnológica de Pereira · 7th semester (five semesters of credits completed)
+- **B.S. Systems & Computing Engineering** — Universidad Tecnológica de Pereira · 7th semester, in progress
 - **Professional Technical Degree in Business Administration** — INTEP, Roldanillo · four semesters
-- **Languages** — Spanish (native) · English (C1 technical reading, B1+ speaking; comfortable in async, written-first teams)
+- **Languages** — Spanish (native) · English (C1 technical reading, B1+ speaking)
 
 ---
 
