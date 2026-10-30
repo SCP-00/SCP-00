@@ -14,6 +14,7 @@
 </div>
 
 <p align="center">
+<a href="https://scp-00.github.io/"><img src="https://img.shields.io/badge/Portfolio-scp--00.github.io-0F4C5C?style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/buendia001/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:v.buendiah@icloud.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge"/></a>
 <a href="https://wa.me/573188668312"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -29,17 +30,6 @@
 That combination is why my repos are full products instead of exercises: an ERP with payment gateways and 693 tests, a local-first fitness ecosystem, and a suite of eight on-device voice applications.
 
 > **Versión en español:** estudiante de séptimo semestre de Ingeniería de Sistemas (UTP) con formación en Administración de Empresas. No me posiciono como programador tradicional: mi fuerte es **definir el producto y ejecutarlo con agentes de IA** — especificación, modelo de datos, dirección técnica y validación con pruebas. Busco roles remotos junior en producto, datos, QA o documentación técnica.
-
----
-
-## 🎯 What I bring
-
-| | |
-| :-- | :-- |
-| **Product & process** | Requirements gathering, scope and acceptance criteria, PRDs, process modeling, research and benchmarking. Four semesters of business administration behind every decision. |
-| **Data & SQL** | PostgreSQL, MySQL, SQLite: schema design, joins, aggregations and query optimization. Business data analysis and reporting. |
-| **AI-assisted delivery** | Coding agents (Codebuff/Freebuff, Antigravity, Android Studio SDK), prompt engineering, and evaluating model output instead of trusting it. |
-| **Documentation** | Technical and scientific writing in English and Spanish. LaTeX, Markdown, and specs that engineers can actually implement. |
 
 ---
 
@@ -100,7 +90,9 @@ A family of speech apps that never send a byte to the cloud: language tutor, eig
 
 ## 📫 Let's talk
 
-I am looking for **remote junior roles or internships** in product operations, data/QA analysis, technical documentation or AI evaluation — and I am open to on-site work in Pereira, Dosquebradas or Santa Rosa de Cabal (nights and weekends during term).
+I am looking for **remote junior roles or internships** in product operations, data/QA analysis, technical documentation or AI evaluation, and I am open to on-site work in Pereira, Dosquebradas or Santa Rosa de Cabal.
+
+Everything in one page, with the CV in plain text and JSON: **[scp-00.github.io](https://scp-00.github.io/)**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/buendia001/"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
