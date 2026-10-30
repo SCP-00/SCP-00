@@ -33,6 +33,17 @@ That combination is why my repos are full products instead of exercises: an ERP 
 
 ---
 
+## 🎯 What I bring
+
+| | |
+| :-- | :-- |
+| **Product & process** | Requirements gathering, scope and acceptance criteria, PRDs, process modeling, research and benchmarking. Four semesters of business administration behind every decision. |
+| **Data & SQL** | PostgreSQL, MySQL, SQLite: schema design, joins, aggregations and query optimization. Business data analysis and reporting. |
+| **AI-assisted delivery** | Coding agents (Codebuff/Freebuff, Antigravity, Android Studio SDK), prompt engineering, and evaluating model output instead of trusting it. |
+| **Documentation** | Technical and scientific writing in English and Spanish. LaTeX, Markdown, and specs that engineers can actually implement. |
+
+---
+
 ## 🚀 Selected work
 
 ### 🌿 [farmacy-erp](https://github.com/SCP-00/farmacy-erp) — Pharmacy POS + B2C store
@@ -90,7 +101,7 @@ A family of speech apps that never send a byte to the cloud: language tutor, eig
 
 ## 📫 Let's talk
 
-I am looking for **remote junior roles or internships** in product operations, data/QA analysis, technical documentation or AI evaluation, and I am open to on-site work in Pereira, Dosquebradas or Santa Rosa de Cabal.
+I am looking for **remote junior roles or internships** in product operations, data/QA analysis, technical documentation or AI evaluation — and I am open to on-site work in Pereira, Dosquebradas or Santa Rosa de Cabal.
 
 Everything in one page, with the CV in plain text and JSON: **[scp-00.github.io](https://scp-00.github.io/)**
 
