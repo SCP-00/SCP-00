@@ -7,7 +7,7 @@
 **I turn product ideas into working software by directing AI coding agents — and I own the spec, the data model and the tests.**
 
 <a href="https://www.linkedin.com/in/buendia001/"><img src="https://img.shields.io/badge/Open%20to%20work-Remote%20%C2%B7%20UTC--5-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Colombia-UTC--5-2F4858?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pereira%2C%20CO-UTC--5-2F4858?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Espa%C3%B1ol-Nativo-B7472A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/English-C1%20reading%20%C2%B7%20B1%2B%20speaking-1B5E20?style=for-the-badge"/>
 
@@ -24,7 +24,7 @@
 
 ## 👋 About me
 
-**Seventh-semester Systems & Computing Engineering student** at Universidad Tecnológica de Pereira (Colombia), with four semesters of Business Administration behind me. I don't present myself as a traditional developer: my edge is **product definition plus AI-assisted execution** — I write the spec, model the data, direct coding agents, then test and review what comes out.
+**Seventh-semester Systems & Computing Engineering student** at Universidad Tecnológica de Pereira, based in Pereira (Risaralda, Colombia), with four semesters of Business Administration behind me. I don't present myself as a traditional developer: my edge is **product definition plus AI-assisted execution** — I write the spec, model the data, direct coding agents, then test and review what comes out.
 
 That combination is why my repos are full products instead of exercises: an ERP with payment gateways and 693 tests, a local-first fitness ecosystem, and a suite of eight on-device voice applications.
 
